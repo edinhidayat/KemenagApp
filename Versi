@@ -1,0 +1,43 @@
+KemenagApp
+VB.Net
+
+# 1.0
+Membuat Tabel User
+Membuat form Utama dan Form User
+
+# 1.1
+Mendesain Form
+Membuat Form validasi User
+
+# 1.2
+Membuat Tabel Master
+Data Bank
+Data Kecamatan
+Data Pejabat
+Data Petugas
+Data Pegawai
+
+# 1.3
+Membuat Tabel Pembatalan
+Membuat Form Pembatalan
+Membuat Cetak Pembatalan
+Desain Word
+
+# 1.4
+Membuat Tabel Pelimpahan Porsi
+Membuat Form Pelimpahan
+Membuat Cetak Pelimpahan
+Desain Word dan Excel
+
+# 1.5
+Membuat Tabel Agenda Pendaftaran Haji
+Membuat Form input Agenda Pendaftaran Haji
+
+# 1.6
+Membuat Tabel Rekomendasi Umroh
+Membuat Form input Rekomendasi Umroh
+
+# 1.7
+Validasi input Rekom Umroh
+Membuat Cetak Rekomendasi Umroh
+Desain Crystal Report
