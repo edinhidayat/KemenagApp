@@ -41,3 +41,9 @@ Membuat Form input Rekomendasi Umroh
 Validasi input Rekom Umroh
 Membuat Cetak Rekomendasi Umroh
 Desain Crystal Report
+
+# 1.8
+Perbaikan Database
+Perbaikan Cetak Pelimpahan Porsi (file Excel)
+- NIK akhir selalu nol, dan
+- Nol di depan nomor HP menghilang
