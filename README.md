@@ -41,3 +41,8 @@ Membuat Form input Rekomendasi Umroh
 Validasi input Rekom Umroh
 Membuat Cetak Rekomendasi Umroh
 Desain Crystal Report
+
+# KemenagApp v.1.8
+Form isian Nomor Surat Rekom Umroh
+Membuat Ubah Rekom Umroh
+Membuat Cetak Rekomendasi Umroh
