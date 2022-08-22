@@ -43,6 +43,12 @@ Membuat Cetak Rekomendasi Umroh
 Desain Crystal Report
 
 # KemenagApp v.1.8
+Perbaikan Database
+Perbaikan Cetak Pelimpahan Porsi (file Excel)
+- NIK akhir selalu nol, dan
+- Nol di depan nomor HP menghilang
+
+# KemenagApp v.1.9
 Form isian Nomor Surat Rekom Umroh
 Membuat Ubah Rekom Umroh
 Membuat Cetak Rekomendasi Umroh
