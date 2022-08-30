@@ -52,3 +52,10 @@ Perbaikan Cetak Pelimpahan Porsi (file Excel)
 Form isian Nomor Surat Rekom Umroh
 Membuat Ubah Rekom Umroh
 Membuat Cetak Rekomendasi Umroh
+
+# KemenagApp v.2.0
+Membuat Menu Laporan
+Laporan Pembatalan
+Laporan Pelimpahan Porsi
+Laporan Agenda Pendaftaran
+Laporan Rekomendasi Umrah
